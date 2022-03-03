@@ -60,7 +60,7 @@ def starts_with_consonant? s
 end
 
 def binary_multiple_of_4? s
-  # YOUR CODE HERE
+  # YOUR CODE HER
 end
 
 # Part 3
